@@ -1,0 +1,5 @@
+StepMotorCrtl		KEYWORD1
+step_motors_init	KEYWORD2
+run_motor1		KEYWORD2
+run_motor2		KEYWORD2
+set_prescaler		KEYWORD2
