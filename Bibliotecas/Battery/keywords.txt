@@ -1,0 +1,2 @@
+Battery		KEYWORD1
+check_battery	KEYWORD2
