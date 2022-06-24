@@ -1,3 +1,0 @@
-TimerInterruptCtrl	KEYWORD1
-TimerInterrupt_init	KEYWORD2
-set_prescaler		KEYWORD2
